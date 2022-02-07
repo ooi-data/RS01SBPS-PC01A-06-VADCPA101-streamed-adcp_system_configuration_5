@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS01SBPS-PC01A-06-VADCPA101-streamed-adcp_system_configuration_5
-last_request: '2022-01-21T18:01:35.954481Z'
+last_request: '2022-02-07T19:18:17.424626Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPS-PC01A-06-VADCPA101-streamed-adcp_system_configuration_5/main/history/response.json
 status: discontinued
